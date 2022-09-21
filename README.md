@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/Math2034/CabbyBoy)
 # CabbyBoy
 
-##Integrantes do grupo
+## Integrantes do grupo
 - `Rayra`: Negócios, Design, Games
 - Matheus: Front e Back-end
 - Lucas: Design
